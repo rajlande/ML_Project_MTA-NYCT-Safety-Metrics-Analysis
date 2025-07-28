@@ -49,7 +49,8 @@ The primary objective is to understand key safety indicators across subway and b
 - Created **box plots** for each safety metric to examine spread and skewness  
 - Used **log scale** due to high variation across metrics  
 
-<img src="C:\Users\RAJ LANDE\OneDrive\Desktop\download4.png" width="800"/>
+<img width="1489" height="1189" alt="download4" src="https://github.com/user-attachments/assets/b4b36503-bf8c-4e10-aad5-8ffd471fdbd2" />
+
 
 **Observation**:
 - Metrics like `Bus Collisions` have low variance
