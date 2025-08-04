@@ -1,0 +1,656 @@
+Month,Department,Metric,Value
+01-04-2019,Bus,Bus Collision Per Million Miles,53.04
+01-04-2019,Bus,Bus Collision Injuries Per Million Miles,3.76
+01-04-2019,Bus,Bus Customer Accidents per million customers,1.48
+01-04-2019,Subway,Subway Customer Accidents,2.8
+01-04-2019,Subway,Subway Fires,57
+01-05-2019,Bus,Bus Collision Per Million Miles,57.92
+01-05-2019,Bus,Bus Collision Injuries Per Million Miles,7.61
+01-05-2019,Bus,Bus Customer Accidents per million customers,1.57
+01-05-2019,Subway,Subway Customer Accidents,2.81
+01-05-2019,Subway,Subway Fires,50
+01-06-2019,Bus,Bus Collision Per Million Miles,60.88
+01-06-2019,Bus,Bus Collision Injuries Per Million Miles,8.04
+01-06-2019,Bus,Bus Customer Accidents per million customers,1.44
+01-06-2019,Subway,Subway Customer Accidents,2.98
+01-06-2019,Subway,Subway Fires,43
+01-07-2019,Bus,Bus Collision Per Million Miles,51.79
+01-07-2019,Bus,Bus Collision Injuries Per Million Miles,6.35
+01-07-2019,Bus,Bus Customer Accidents per million customers,1.65
+01-07-2019,Subway,Subway Customer Accidents,2.5
+01-07-2019,Subway,Subway Fires,59
+01-08-2019,Bus,Bus Collision Per Million Miles,48.87
+01-08-2019,Bus,Bus Collision Injuries Per Million Miles,6.15
+01-08-2019,Bus,Bus Customer Accidents per million customers,1.81
+01-08-2019,Subway,Subway Customer Accidents,2.55
+01-08-2019,Subway,Subway Fires,55
+01-09-2019,Bus,Bus Collision Per Million Miles,58.69
+01-09-2019,Bus,Bus Collision Injuries Per Million Miles,7.5
+01-09-2019,Bus,Bus Customer Accidents per million customers,1.54
+01-09-2019,Subway,Subway Customer Accidents,2.33
+01-09-2019,Subway,Subway Fires,52
+01-10-2019,Bus,Bus Collision Per Million Miles,53.26
+01-10-2019,Bus,Bus Collision Injuries Per Million Miles,6.24
+01-10-2019,Bus,Bus Customer Accidents per million customers,1.55
+01-10-2019,Subway,Subway Customer Accidents,2.37
+01-10-2019,Subway,Subway Fires,58
+01-11-2019,Bus,Bus Collision Per Million Miles,57.97
+01-11-2019,Bus,Bus Collision Injuries Per Million Miles,7.08
+01-11-2019,Bus,Bus Customer Accidents per million customers,1.65
+01-11-2019,Subway,Subway Customer Accidents,2.52
+01-11-2019,Subway,Subway Fires,71
+01-12-2019,Bus,Bus Collision Per Million Miles,57.22
+01-12-2019,Bus,Bus Collision Injuries Per Million Miles,5.81
+01-12-2019,Bus,Bus Customer Accidents per million customers,1.12
+01-12-2019,Subway,Subway Customer Accidents,4.07
+01-12-2019,Subway,Subway Fires,74
+01-01-2020,Bus,Bus Collision Per Million Miles,46.93
+01-01-2020,Bus,Bus Collision Injuries Per Million Miles,5.76
+01-01-2020,Bus,Bus Customer Accidents per million customers,1.4
+01-01-2020,Subway,Subway Customer Accidents,3.1
+01-01-2020,Subway,Subway Fires,74
+01-02-2020,Bus,Bus Collision Per Million Miles,48.14
+01-02-2020,Bus,Bus Collision Injuries Per Million Miles,4.45
+01-02-2020,Bus,Bus Customer Accidents per million customers,1.16
+01-02-2020,Subway,Subway Customer Accidents,2.99
+01-02-2020,Subway,Subway Fires,86
+01-03-2020,Bus,Bus Collision Per Million Miles,41.32
+01-03-2020,Bus,Bus Collision Injuries Per Million Miles,6.05
+01-03-2020,Bus,Bus Customer Accidents per million customers,1.7
+01-03-2020,Subway,Subway Customer Accidents,3.91
+01-03-2020,Subway,Subway Fires,75
+01-04-2020,Bus,Bus Collision Per Million Miles,22.26
+01-04-2020,Bus,Bus Collision Injuries Per Million Miles,1.69
+01-04-2020,Bus,Bus Customer Accidents per million customers,2.03
+01-04-2020,Subway,Subway Customer Accidents,13.63
+01-04-2020,Subway,Subway Fires,60
+01-05-2020,Bus,Bus Collision Per Million Miles,29.73
+01-05-2020,Bus,Bus Collision Injuries Per Million Miles,2.45
+01-05-2020,Bus,Bus Customer Accidents per million customers,1.91
+01-05-2020,Subway,Subway Customer Accidents,8.41
+01-05-2020,Subway,Subway Fires,83
+01-06-2020,Bus,Bus Collision Per Million Miles,35.21
+01-06-2020,Bus,Bus Collision Injuries Per Million Miles,5.16
+01-06-2020,Bus,Bus Customer Accidents per million customers,2.15
+01-06-2020,Subway,Subway Customer Accidents,6.18
+01-06-2020,Subway,Subway Fires,75
+01-07-2020,Bus,Bus Collision Per Million Miles,37.73
+01-07-2020,Bus,Bus Collision Injuries Per Million Miles,4.6
+01-07-2020,Bus,Bus Customer Accidents per million customers,1.49
+01-07-2020,Subway,Subway Customer Accidents,5.72
+01-07-2020,Subway,Subway Fires,84
+01-08-2020,Bus,Bus Collision Per Million Miles,42.23
+01-08-2020,Bus,Bus Collision Injuries Per Million Miles,6.21
+01-08-2020,Bus,Bus Customer Accidents per million customers,1.78
+01-08-2020,Subway,Subway Customer Accidents,4.74
+01-08-2020,Subway,Subway Fires,70
+01-09-2020,Bus,Bus Collision Per Million Miles,42.84
+01-09-2020,Bus,Bus Collision Injuries Per Million Miles,5.15
+01-09-2020,Bus,Bus Customer Accidents per million customers,2.28
+01-09-2020,Subway,Subway Customer Accidents,4.26
+01-09-2020,Subway,Subway Fires,58
+01-10-2020,Bus,Bus Collision Per Million Miles,48.23
+01-10-2020,Bus,Bus Collision Injuries Per Million Miles,3.61
+01-10-2020,Bus,Bus Customer Accidents per million customers,2.06
+01-10-2020,Subway,Subway Customer Accidents,4.25
+01-10-2020,Subway,Subway Fires,70
+01-11-2020,Bus,Bus Collision Per Million Miles,46.82
+01-11-2020,Bus,Bus Collision Injuries Per Million Miles,3.98
+01-11-2020,Bus,Bus Customer Accidents per million customers,2.26
+01-11-2020,Subway,Subway Customer Accidents,4.85
+01-11-2020,Subway,Subway Fires,75
+01-12-2020,Bus,Bus Collision Per Million Miles,46.91
+01-12-2020,Bus,Bus Collision Injuries Per Million Miles,4.51
+01-12-2020,Bus,Bus Customer Accidents per million customers,1.9
+01-12-2020,Subway,Subway Customer Accidents,7.75
+01-12-2020,Subway,Subway Fires,90
+01-01-2021,Bus,Bus Collision Per Million Miles,35.93
+01-01-2021,Bus,Bus Collision Injuries Per Million Miles,4.59
+01-01-2021,Bus,Bus Customer Accidents per million customers,2.06
+01-01-2021,Subway,Subway Customer Accidents,6.77
+01-01-2021,Subway,Subway Fires,79
+01-02-2021,Bus,Bus Collision Per Million Miles,47.61
+01-02-2021,Bus,Bus Collision Injuries Per Million Miles,5.6
+01-02-2021,Bus,Bus Customer Accidents per million customers,1.26
+01-02-2021,Subway,Subway Customer Accidents,7.49
+01-02-2021,Subway,Subway Fires,103
+01-03-2021,Bus,Bus Collision Per Million Miles,44.15
+01-03-2021,Bus,Bus Collision Injuries Per Million Miles,4.79
+01-03-2021,Bus,Bus Customer Accidents per million customers,1.81
+01-03-2021,Subway,Subway Customer Accidents,4.93
+01-03-2021,Subway,Subway Fires,85
+01-04-2021,Bus,Bus Collision Per Million Miles,47.82
+01-04-2021,Bus,Bus Collision Injuries Per Million Miles,4.9
+01-04-2021,Bus,Bus Customer Accidents per million customers,1.74
+01-04-2021,Subway,Subway Customer Accidents,4.67
+01-04-2021,Subway,Subway Fires,88
+01-05-2021,Bus,Bus Collision Per Million Miles,50.02
+01-05-2021,Bus,Bus Collision Injuries Per Million Miles,4.2
+01-05-2021,Bus,Bus Customer Accidents per million customers,2.15
+01-05-2021,Subway,Subway Customer Accidents,3.91
+01-05-2021,Subway,Subway Fires,113
+01-06-2021,Bus,Bus Collision Per Million Miles,53.7
+01-06-2021,Bus,Bus Collision Injuries Per Million Miles,6.03
+01-06-2021,Bus,Bus Customer Accidents per million customers,1.82
+01-06-2021,Subway,Subway Customer Accidents,3.7
+01-06-2021,Subway,Subway Fires,92
+01-07-2021,Bus,Bus Collision Per Million Miles,53.47
+01-07-2021,Bus,Bus Collision Injuries Per Million Miles,6.02
+01-07-2021,Bus,Bus Customer Accidents per million customers,1.87
+01-07-2021,Subway,Subway Customer Accidents,4.14
+01-07-2021,Subway,Subway Fires,60
+01-08-2021,Bus,Bus Collision Per Million Miles,52.53
+01-08-2021,Bus,Bus Collision Injuries Per Million Miles,4.73
+01-08-2021,Bus,Bus Customer Accidents per million customers,1.88
+01-08-2021,Bus,Audible Pedestrian Turn Warning System,10
+01-08-2021,Bus,Vision Zero Employee Training,443
+01-08-2021,Subway,Subway Customer Accidents,3.7
+01-08-2021,Subway,Subway Fires,66
+01-08-2021,Subway,Joint Track Safety Audits - Actual Count,28
+01-08-2021,Subway,Joint Track Safety Audits - Compliance Rate,1
+01-08-2021,Subway,Continuous Welded Rail Initiative (# Track Feet),4530
+01-08-2021,Subway,Friction Pad Installation,2079
+01-09-2021,Bus,Bus Collision Per Million Miles,60.94
+01-09-2021,Bus,Bus Collision Injuries Per Million Miles,6.3
+01-09-2021,Bus,Bus Customer Accidents per million customers,2.32
+01-09-2021,Bus,Audible Pedestrian Turn Warning System,70
+01-09-2021,Bus,Vision Zero Employee Training,541
+01-09-2021,Subway,Subway Customer Accidents,3.39
+01-09-2021,Subway,Subway Fires,86
+01-09-2021,Subway,Joint Track Safety Audits - Actual Count,26
+01-09-2021,Subway,Joint Track Safety Audits - Compliance Rate,0.977
+01-09-2021,Subway,Continuous Welded Rail Initiative (# Track Feet),345
+01-09-2021,Subway,Friction Pad Installation,2425
+01-10-2021,Bus,Bus Collision Per Million Miles,63.83
+01-10-2021,Bus,Bus Collision Injuries Per Million Miles,5.69
+01-10-2021,Bus,Bus Customer Accidents per million customers,1.99
+01-10-2021,Bus,Audible Pedestrian Turn Warning System,31
+01-10-2021,Bus,Vision Zero Employee Training,484
+01-10-2021,Subway,Subway Customer Accidents,2.96
+01-10-2021,Subway,Subway Fires,76
+01-10-2021,Subway,Joint Track Safety Audits - Actual Count,23
+01-10-2021,Subway,Joint Track Safety Audits - Compliance Rate,0.983
+01-10-2021,Subway,Continuous Welded Rail Initiative (# Track Feet),2216
+01-10-2021,Subway,Friction Pad Installation,2464
+01-11-2021,Bus,Bus Collision Per Million Miles,65.99
+01-11-2021,Bus,Bus Collision Injuries Per Million Miles,6.57
+01-11-2021,Bus,Bus Customer Accidents per million customers,1.87
+01-11-2021,Bus,Audible Pedestrian Turn Warning System,40
+01-11-2021,Bus,Vision Zero Employee Training,442
+01-11-2021,Subway,Subway Customer Accidents,3.25
+01-11-2021,Subway,Subway Fires,78
+01-11-2021,Subway,Joint Track Safety Audits - Actual Count,20
+01-11-2021,Subway,Joint Track Safety Audits - Compliance Rate,0.993
+01-11-2021,Subway,Continuous Welded Rail Initiative (# Track Feet),3805
+01-11-2021,Subway,Friction Pad Installation,2836
+01-12-2021,Bus,Bus Collision Per Million Miles,55.59
+01-12-2021,Bus,Bus Collision Injuries Per Million Miles,5.8
+01-12-2021,Bus,Bus Customer Accidents per million customers,1.87
+01-12-2021,Bus,Audible Pedestrian Turn Warning System,75
+01-12-2021,Bus,Vision Zero Employee Training,470
+01-12-2021,Subway,Subway Customer Accidents,4.05
+01-12-2021,Subway,Subway Fires,80
+01-12-2021,Subway,Joint Track Safety Audits - Actual Count,26
+01-12-2021,Subway,Joint Track Safety Audits - Compliance Rate,0.998
+01-12-2021,Subway,Continuous Welded Rail Initiative (# Track Feet),1803
+01-12-2021,Subway,Friction Pad Installation,2288
+01-01-2022,Bus,Bus Collision Per Million Miles,57
+01-01-2022,Bus,Bus Collision Injuries Per Million Miles,5.56
+01-01-2022,Bus,Bus Customer Accidents per million customers,1.53
+01-01-2022,Bus,Audible Pedestrian Turn Warning System,14
+01-01-2022,Bus,Vision Zero Employee Training,46
+01-01-2022,Subway,Subway Customer Accidents,5.12
+01-01-2022,Subway,Subway Fires,127
+01-01-2022,Subway,Joint Track Safety Audits - Actual Count,28
+01-01-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.993
+01-01-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),1866
+01-01-2022,Subway,Friction Pad Installation,750
+01-02-2022,Bus,Bus Collision Per Million Miles,52.6
+01-02-2022,Bus,Bus Collision Injuries Per Million Miles,7.08
+01-02-2022,Bus,Bus Customer Accidents per million customers,1.56
+01-02-2022,Bus,Audible Pedestrian Turn Warning System,50
+01-02-2022,Bus,Vision Zero Employee Training,0
+01-02-2022,Subway,Subway Customer Accidents,4.8
+01-02-2022,Subway,Subway Fires,150
+01-02-2022,Subway,Joint Track Safety Audits - Actual Count,27
+01-02-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.982
+01-02-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),1170
+01-02-2022,Subway,Friction Pad Installation,2084
+01-03-2022,Bus,Bus Collision Per Million Miles,54.28
+01-03-2022,Bus,Bus Collision Injuries Per Million Miles,6.64
+01-03-2022,Bus,Bus Customer Accidents per million customers,1.84
+01-03-2022,Bus,Audible Pedestrian Turn Warning System,96
+01-03-2022,Bus,Vision Zero Employee Training,0
+01-03-2022,Subway,Subway Customer Accidents,3.45
+01-03-2022,Subway,Subway Fires,128
+01-03-2022,Subway,Joint Track Safety Audits - Actual Count,36
+01-03-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.991
+01-03-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),2453
+01-03-2022,Subway,Friction Pad Installation,2371
+01-04-2022,Bus,Bus Collision Per Million Miles,58.55
+01-04-2022,Bus,Bus Collision Injuries Per Million Miles,7.84
+01-04-2022,Bus,Bus Customer Accidents per million customers,1.84
+01-04-2022,Bus,Audible Pedestrian Turn Warning System,64
+01-04-2022,Bus,Vision Zero Employee Training,470
+01-04-2022,Subway,Subway Customer Accidents,3.29
+01-04-2022,Subway,Subway Fires,115
+01-04-2022,Subway,Joint Track Safety Audits - Actual Count,24
+01-04-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.989
+01-04-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),1485
+01-04-2022,Subway,Friction Pad Installation,1875
+01-05-2022,Bus,Bus Collision Per Million Miles,61.24
+01-05-2022,Bus,Bus Collision Injuries Per Million Miles,5.22
+01-05-2022,Bus,Bus Customer Accidents per million customers,2.13
+01-05-2022,Bus,Audible Pedestrian Turn Warning System,42
+01-05-2022,Bus,Vision Zero Employee Training,511
+01-05-2022,Subway,Subway Customer Accidents,2.86
+01-05-2022,Subway,Subway Fires,95
+01-05-2022,Subway,Joint Track Safety Audits - Actual Count,31
+01-05-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.983
+01-05-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),2340
+01-05-2022,Subway,Friction Pad Installation,601
+01-06-2022,Bus,Bus Collision Per Million Miles,64.43
+01-06-2022,Bus,Bus Collision Injuries Per Million Miles,9.14
+01-06-2022,Bus,Bus Customer Accidents per million customers,2.25
+01-06-2022,Bus,Audible Pedestrian Turn Warning System,38
+01-06-2022,Bus,Vision Zero Employee Training,501
+01-06-2022,Subway,Subway Customer Accidents,2.88
+01-06-2022,Subway,Subway Fires,92
+01-06-2022,Subway,Joint Track Safety Audits - Actual Count,27
+01-06-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.993
+01-06-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),780
+01-06-2022,Subway,Friction Pad Installation,3537
+01-07-2022,Bus,Bus Collision Per Million Miles,54.28
+01-07-2022,Bus,Bus Collision Injuries Per Million Miles,7.34
+01-07-2022,Bus,Bus Customer Accidents per million customers,2.24
+01-07-2022,Bus,Audible Pedestrian Turn Warning System,42
+01-07-2022,Bus,Vision Zero Employee Training,548
+01-07-2022,Subway,Subway Customer Accidents,3.03
+01-07-2022,Subway,Subway Fires,106
+01-07-2022,Subway,Joint Track Safety Audits - Actual Count,27
+01-07-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.985
+01-07-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),2340
+01-07-2022,Subway,Friction Pad Installation,2564
+01-08-2022,Bus,Bus Collision Per Million Miles,59.28
+01-08-2022,Bus,Bus Collision Injuries Per Million Miles,8.9
+01-08-2022,Bus,Bus Customer Accidents per million customers,2.21
+01-08-2022,Bus,Audible Pedestrian Turn Warning System,43
+01-08-2022,Bus,Vision Zero Employee Training,557
+01-08-2022,Subway,Subway Customer Accidents,2.94
+01-08-2022,Subway,Subway Fires,105
+01-08-2022,Subway,Joint Track Safety Audits - Actual Count,29
+01-08-2022,Subway,Joint Track Safety Audits - Compliance Rate,1
+01-08-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),1419
+01-08-2022,Subway,Friction Pad Installation,1176
+01-09-2022,Bus,Bus Collision Per Million Miles,62.66
+01-09-2022,Bus,Bus Collision Injuries Per Million Miles,9.2
+01-09-2022,Bus,Bus Customer Accidents per million customers,2.44
+01-09-2022,Bus,Audible Pedestrian Turn Warning System,65
+01-09-2022,Bus,Vision Zero Employee Training,563
+01-09-2022,Subway,Subway Customer Accidents,3.1
+01-09-2022,Subway,Subway Fires,95
+01-09-2022,Subway,Joint Track Safety Audits - Actual Count,26
+01-09-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.993
+01-09-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),3579
+01-09-2022,Subway,Friction Pad Installation,1631
+01-10-2022,Bus,Bus Collision Per Million Miles,63.24
+01-10-2022,Bus,Bus Collision Injuries Per Million Miles,7.94
+01-10-2022,Bus,Bus Customer Accidents per million customers,1.92
+01-10-2022,Bus,Audible Pedestrian Turn Warning System,56
+01-10-2022,Bus,Vision Zero Employee Training,640
+01-10-2022,Subway,Subway Customer Accidents,2.39
+01-10-2022,Subway,Subway Fires,110
+01-10-2022,Subway,Joint Track Safety Audits - Actual Count,24
+01-10-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.984
+01-10-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),1311
+01-10-2022,Subway,Friction Pad Installation,4106
+01-11-2022,Bus,Bus Collision Per Million Miles,61.26
+01-11-2022,Bus,Bus Collision Injuries Per Million Miles,8.34
+01-11-2022,Bus,Bus Customer Accidents per million customers,2.33
+01-11-2022,Bus,Audible Pedestrian Turn Warning System,46
+01-11-2022,Bus,Vision Zero Employee Training,551
+01-11-2022,Subway,Subway Customer Accidents,2.51
+01-11-2022,Subway,Subway Fires,104
+01-11-2022,Subway,Joint Track Safety Audits - Actual Count,15
+01-11-2022,Subway,Joint Track Safety Audits - Compliance Rate,1
+01-11-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),2340
+01-11-2022,Subway,Friction Pad Installation,3769
+01-12-2022,Bus,Bus Collision Per Million Miles,66.69
+01-12-2022,Bus,Bus Collision Injuries Per Million Miles,7.88
+01-12-2022,Bus,Bus Customer Accidents per million customers,2.3
+01-12-2022,Bus,Audible Pedestrian Turn Warning System,54
+01-12-2022,Bus,Vision Zero Employee Training,590
+01-12-2022,Subway,Subway Customer Accidents,3.22
+01-12-2022,Subway,Subway Fires,88
+01-12-2022,Subway,Joint Track Safety Audits - Actual Count,17
+01-12-2022,Subway,Joint Track Safety Audits - Compliance Rate,0.992
+01-12-2022,Subway,Continuous Welded Rail Initiative (# Track Feet),2145
+01-12-2022,Subway,Friction Pad Installation,3658
+01-01-2023,Bus,Bus Collision Per Million Miles,51.25
+01-01-2023,Bus,Bus Collision Injuries Per Million Miles,4.96
+01-01-2023,Bus,Bus Customer Accidents per million customers,2.05
+01-01-2023,Bus,Audible Pedestrian Turn Warning System,39
+01-01-2023,Bus,Vision Zero Employee Training,544
+01-01-2023,Subway,Subway Customer Accidents,3.23
+01-01-2023,Subway,Subway Fires,77
+01-01-2023,Subway,Joint Track Safety Audits - Actual Count,15
+01-01-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.9776
+01-01-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),4276
+01-01-2023,Subway,Friction Pad Installation,3303
+01-02-2023,Bus,Bus Collision Per Million Miles,56.46
+01-02-2023,Bus,Bus Collision Injuries Per Million Miles,4.41
+01-02-2023,Bus,Bus Customer Accidents per million customers,2.11
+01-02-2023,Bus,Audible Pedestrian Turn Warning System,38
+01-02-2023,Bus,Vision Zero Employee Training,396
+01-02-2023,Subway,Subway Customer Accidents,2.78
+01-02-2023,Subway,Subway Fires,94
+01-02-2023,Subway,Joint Track Safety Audits - Actual Count,31
+01-02-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.9912
+01-02-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),2145
+01-02-2023,Subway,Friction Pad Installation,4904
+01-03-2023,Bus,Bus Collision Per Million Miles,57.62
+01-03-2023,Bus,Bus Collision Injuries Per Million Miles,8.22
+01-03-2023,Bus,Bus Customer Accidents per million customers,2.14
+01-03-2023,Bus,Audible Pedestrian Turn Warning System,24
+01-03-2023,Bus,Vision Zero Employee Training,591
+01-03-2023,Subway,Subway Customer Accidents,2.83
+01-03-2023,Subway,Subway Fires,98
+01-03-2023,Subway,Joint Track Safety Audits - Actual Count,30
+01-03-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.989
+01-03-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),2535
+01-03-2023,Subway,Friction Pad Installation,4944
+01-04-2023,Bus,Bus Collision Per Million Miles,58.14
+01-04-2023,Bus,Bus Collision Injuries Per Million Miles,6.87
+01-04-2023,Bus,Bus Customer Accidents per million customers,2.22
+01-04-2023,Bus,Audible Pedestrian Turn Warning System,18
+01-04-2023,Bus,Vision Zero Employee Training,507
+01-04-2023,Subway,Subway Customer Accidents,2.58
+01-04-2023,Subway,Subway Fires,95
+01-04-2023,Subway,Joint Track Safety Audits - Actual Count,27
+01-04-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.998
+01-04-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),1140
+01-04-2023,Subway,Friction Pad Installation,4249
+01-05-2023,Bus,Bus Collision Per Million Miles,65.32
+01-05-2023,Bus,Bus Collision Injuries Per Million Miles,10.99
+01-05-2023,Bus,Bus Customer Accidents per million customers,2.17
+01-05-2023,Bus,Audible Pedestrian Turn Warning System,11
+01-05-2023,Bus,Vision Zero Employee Training,523
+01-05-2023,Subway,Subway Customer Accidents,2.3
+01-05-2023,Subway,Subway Fires,136
+01-05-2023,Subway,Joint Track Safety Audits - Actual Count,31
+01-05-2023,Subway,Joint Track Safety Audits - Compliance Rate,1
+01-05-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),3239
+01-05-2023,Subway,Friction Pad Installation,4893
+01-06-2023,Bus,Bus Collision Per Million Miles,55.51
+01-06-2023,Bus,Bus Collision Injuries Per Million Miles,8.15
+01-06-2023,Bus,Bus Customer Accidents per million customers,2.42
+01-06-2023,Bus,Audible Pedestrian Turn Warning System,3
+01-06-2023,Bus,Vision Zero Employee Training,514
+01-06-2023,Subway,Subway Customer Accidents,2.55
+01-06-2023,Subway,Subway Fires,100
+01-06-2023,Subway,Joint Track Safety Audits - Actual Count,26
+01-06-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.9924
+01-06-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),1543
+01-06-2023,Subway,Friction Pad Installation,4402
+01-07-2023,Bus,Bus Collision Per Million Miles,54.43
+01-07-2023,Bus,Bus Collision Injuries Per Million Miles,11.31
+01-07-2023,Bus,Bus Customer Accidents per million customers,2.33
+01-07-2023,Bus,Audible Pedestrian Turn Warning System,7
+01-07-2023,Bus,Vision Zero Employee Training,525
+01-07-2023,Subway,Subway Customer Accidents,2.49
+01-07-2023,Subway,Subway Fires,75
+01-07-2023,Subway,Joint Track Safety Audits - Actual Count,18
+01-07-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.988
+01-07-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),2340
+01-07-2023,Subway,Friction Pad Installation,3047
+01-08-2023,Bus,Bus Collision Per Million Miles,51.8
+01-08-2023,Bus,Bus Collision Injuries Per Million Miles,8.6
+01-08-2023,Bus,Bus Customer Accidents per million customers,2.53
+01-08-2023,Bus,Audible Pedestrian Turn Warning System,9
+01-08-2023,Bus,Vision Zero Employee Training,552
+01-08-2023,Subway,Subway Customer Accidents,2.41
+01-08-2023,Subway,Subway Fires,65
+01-08-2023,Subway,Joint Track Safety Audits - Actual Count,35
+01-08-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.987
+01-08-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),1110
+01-08-2023,Subway,Friction Pad Installation,4290
+01-09-2023,Bus,Bus Collision Per Million Miles,63.17
+01-09-2023,Bus,Bus Collision Injuries Per Million Miles,8.44
+01-09-2023,Bus,Bus Customer Accidents per million customers,2.66
+01-09-2023,Bus,Audible Pedestrian Turn Warning System,12
+01-09-2023,Bus,Vision Zero Employee Training,607
+01-09-2023,Subway,Subway Customer Accidents,2.51
+01-09-2023,Subway,Subway Fires,88
+01-09-2023,Subway,Joint Track Safety Audits - Actual Count,27
+01-09-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.983
+01-09-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),365
+01-09-2023,Subway,Friction Pad Installation,2648
+01-10-2023,Bus,Bus Collision Per Million Miles,65.56
+01-10-2023,Bus,Bus Collision Injuries Per Million Miles,7.77
+01-10-2023,Bus,Bus Customer Accidents per million customers,2.37
+01-10-2023,Bus,Audible Pedestrian Turn Warning System,28
+01-10-2023,Bus,Vision Zero Employee Training,571
+01-10-2023,Subway,Subway Customer Accidents,2.65
+01-10-2023,Subway,Subway Fires,70
+01-10-2023,Subway,Joint Track Safety Audits - Actual Count,28
+01-10-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.985
+01-10-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),972
+01-10-2023,Subway,Friction Pad Installation,3202
+01-11-2023,Bus,Bus Collision Per Million Miles,62.56
+01-11-2023,Bus,Bus Collision Injuries Per Million Miles,7.12
+01-11-2023,Bus,Bus Customer Accidents per million customers,2.12
+01-11-2023,Bus,Audible Pedestrian Turn Warning System,9
+01-11-2023,Bus,Vision Zero Employee Training,524
+01-11-2023,Subway,Subway Customer Accidents,2.51
+01-11-2023,Subway,Subway Fires,69
+01-11-2023,Subway,Joint Track Safety Audits - Actual Count,29
+01-11-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.9977
+01-11-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),1854
+01-11-2023,Subway,Friction Pad Installation,4288
+01-12-2023,Bus,Bus Collision Per Million Miles,61.75
+01-12-2023,Bus,Bus Collision Injuries Per Million Miles,8.08
+01-12-2023,Bus,Bus Customer Accidents per million customers,2.11
+01-12-2023,Bus,Audible Pedestrian Turn Warning System,24
+01-12-2023,Bus,Vision Zero Employee Training,548
+01-12-2023,Subway,Subway Customer Accidents,2.99
+01-12-2023,Subway,Subway Fires,56
+01-12-2023,Subway,Joint Track Safety Audits - Actual Count,22
+01-12-2023,Subway,Joint Track Safety Audits - Compliance Rate,0.9909
+01-12-2023,Subway,Continuous Welded Rail Initiative (# Track Feet),4220
+01-12-2023,Subway,Friction Pad Installation,5068
+01-01-2024,Bus,Bus Collision Per Million Miles,53.15
+01-01-2024,Bus,Bus Collision Injuries Per Million Miles,7.57
+01-01-2024,Bus,Bus Customer Accidents per million customers,2.15
+01-01-2024,Bus,Audible Pedestrian Turn Warning System,25
+01-01-2024,Bus,Vision Zero Employee Training,520
+01-01-2024,Subway,Subway Customer Accidents,3.63
+01-01-2024,Subway,Subway Fires,75
+01-01-2024,Subway,Joint Track Safety Audits - Actual Count,28
+01-01-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.988
+01-01-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),1560
+01-01-2024,Subway,Friction Pad Installation,2256
+01-02-2024,Bus,Bus Collision Per Million Miles,56.45
+01-02-2024,Bus,Bus Collision Injuries Per Million Miles,8.63
+01-02-2024,Bus,Bus Customer Accidents per million customers,1.99
+01-02-2024,Bus,Audible Pedestrian Turn Warning System,33
+01-02-2024,Bus,Vision Zero Employee Training,531
+01-02-2024,Subway,Subway Customer Accidents,3.27
+01-02-2024,Subway,Subway Fires,75
+01-02-2024,Subway,Joint Track Safety Audits - Actual Count,14
+01-02-2024,Subway,Joint Track Safety Audits - Compliance Rate,1
+01-02-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),973
+01-02-2024,Subway,Friction Pad Installation,7130
+01-03-2024,Subway,Friction Pad Installation,5552
+01-03-2024,Bus,Bus Collision Per Million Miles,59.66
+01-03-2024,Bus,Bus Collision Injuries Per Million Miles,5.45
+01-03-2024,Bus,Bus Customer Accidents per million customers,2.15
+01-03-2024,Bus,Audible Pedestrian Turn Warning System,40
+01-03-2024,Bus,Vision Zero Employee Training,556
+01-03-2024,Subway,Subway Customer Accidents,2.42
+01-03-2024,Subway,Subway Fires,73
+01-03-2024,Subway,Joint Track Safety Audits - Actual Count,12
+01-03-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.989
+01-03-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),1634
+01-04-2024,Bus,Bus Collision Per Million Miles,57.05
+01-04-2024,Bus,Bus Collision Injuries Per Million Miles,5.59
+01-04-2024,Bus,Bus Customer Accidents per million customers,2.31
+01-04-2024,Bus,Audible Pedestrian Turn Warning System,34
+01-04-2024,Bus,Vision Zero Employee Training,521
+01-04-2024,Subway,Subway Customer Accidents,2.43
+01-04-2024,Subway,Subway Fires,70
+01-04-2024,Subway,Joint Track Safety Audits - Actual Count,12
+01-04-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.9828
+01-04-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),1345
+01-04-2024,Subway,Friction Pad Installation,5921
+01-05-2024,Bus,Bus Collision Per Million Miles,63.74
+01-05-2024,Bus,Bus Collision Injuries Per Million Miles,11.67
+01-05-2024,Bus,Bus Customer Accidents per million customers,2.71
+01-05-2024,Bus,Audible Pedestrian Turn Warning System,38
+01-05-2024,Bus,Vision Zero Employee Training,546
+01-05-2024,Subway,Subway Customer Accidents,2.62
+01-05-2024,Subway,Subway Fires,72
+01-05-2024,Subway,Joint Track Safety Audits - Actual Count,15
+01-05-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.96
+01-05-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),2728
+01-05-2024,Subway,Friction Pad Installation,4164
+01-06-2024,Bus,Bus Collision Per Million Miles,62.2
+01-06-2024,Bus,Bus Collision Injuries Per Million Miles,6.85
+01-06-2024,Bus,Bus Customer Accidents per million customers,3.34
+01-06-2024,Bus,Audible Pedestrian Turn Warning System,25
+01-06-2024,Bus,Vision Zero Employee Training,474
+01-06-2024,Subway,Subway Customer Accidents,2.21
+01-06-2024,Subway,Subway Fires,61
+01-06-2024,Subway,Joint Track Safety Audits - Actual Count,11
+01-06-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.9877
+01-06-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),1485
+01-06-2024,Subway,Friction Pad Installation,4608
+01-07-2024,Bus,Bus Collision Per Million Miles,55.06
+01-07-2024,Bus,Bus Collision Injuries Per Million Miles,8.04
+01-07-2024,Bus,Bus Customer Accidents per million customers,2.86
+01-07-2024,Bus,Audible Pedestrian Turn Warning System,15
+01-07-2024,Bus,Vision Zero Employee Training,551
+01-07-2024,Subway,Subway Customer Accidents,2.35
+01-07-2024,Subway,Subway Fires,55
+01-07-2024,Subway,Joint Track Safety Audits - Actual Count,16
+01-07-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.9801
+01-07-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),0
+01-07-2024,Subway,Friction Pad Installation,3280
+01-08-2024,Bus,Bus Collision Per Million Miles,53.62
+01-08-2024,Bus,Bus Collision Injuries Per Million Miles,9.11
+01-08-2024,Bus,Bus Customer Accidents per million customers,2.58
+01-08-2024,Bus,Audible Pedestrian Turn Warning System,27
+01-08-2024,Bus,Vision Zero Employee Training,553
+01-08-2024,Subway,Subway Customer Accidents,2.38
+01-08-2024,Subway,Subway Fires,73
+01-08-2024,Subway,Joint Track Safety Audits - Actual Count,12
+01-08-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.9945
+01-08-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),3658
+01-08-2024,Subway,Friction Pad Installation,2472
+01-09-2024,Bus,Bus Collision Per Million Miles,63.96
+01-09-2024,Bus,Bus Collision Injuries Per Million Miles,7.69
+01-09-2024,Bus,Bus Customer Accidents per million customers,2.94
+01-09-2024,Bus,Audible Pedestrian Turn Warning System,37
+01-09-2024,Bus,Vision Zero Employee Training,505
+01-09-2024,Subway,Subway Customer Accidents,1.86
+01-09-2024,Subway,Subway Fires,64
+01-09-2024,Subway,Joint Track Safety Audits - Actual Count,12
+01-09-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.994
+01-09-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),975
+01-09-2024,Subway,Friction Pad Installation,2444
+01-10-2024,Bus,Bus Collision Per Million Miles,65.36
+01-10-2024,Bus,Bus Collision Injuries Per Million Miles,8.24
+01-10-2024,Bus,Bus Customer Accidents per million customers,2.76
+01-10-2024,Bus,Audible Pedestrian Turn Warning System,45
+01-10-2024,Bus,Vision Zero Employee Training,647
+01-10-2024,Subway,Subway Customer Accidents,2.03
+01-10-2024,Subway,Subway Fires,73
+01-10-2024,Subway,Joint Track Safety Audits - Actual Count,16
+01-10-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.972
+01-10-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),585
+01-10-2024,Subway,Friction Pad Installation,3473
+01-11-2024,Bus,Bus Collision Per Million Miles,68.35
+01-11-2024,Bus,Bus Collision Injuries Per Million Miles,8.12
+01-11-2024,Bus,Bus Customer Accidents per million customers,2.19
+01-11-2024,Bus,Audible Pedestrian Turn Warning System,36
+01-11-2024,Bus,Vision Zero Employee Training,575
+01-11-2024,Subway,Subway Customer Accidents,2.33
+01-11-2024,Subway,Subway Fires,70
+01-11-2024,Subway,Joint Track Safety Audits - Actual Count,14
+01-11-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.976
+01-11-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),390
+01-11-2024,Subway,Friction Pad Installation,1989
+01-12-2024,Bus,Bus Collision Per Million Miles,67.02
+01-12-2024,Bus,Bus Collision Injuries Per Million Miles,6.39
+01-12-2024,Bus,Bus Customer Accidents per million customers,2.68
+01-12-2024,Bus,Audible Pedestrian Turn Warning System,18
+01-12-2024,Bus,Vision Zero Employee Training,609
+01-12-2024,Subway,Subway Customer Accidents,3.13
+01-12-2024,Subway,Subway Fires,66
+01-12-2024,Subway,Joint Track Safety Audits - Actual Count,19
+01-12-2024,Subway,Joint Track Safety Audits - Compliance Rate,0.9932
+01-12-2024,Subway,Continuous Welded Rail Initiative (# Track Feet),1365
+01-12-2024,Subway,Friction Pad Installation,1256
+01-01-2025,Bus,Bus Collision Per Million Miles,61.73
+01-01-2025,Bus,Bus Collision Injuries Per Million Miles,7.09
+01-01-2025,Bus,Bus Customer Accidents per million customers,1.99
+01-01-2025,Bus,Audible Pedestrian Turn Warning System,22
+01-01-2025,Bus,Vision Zero Employee Training,573
+01-01-2025,Subway,Subway Customer Accidents,3.72
+01-01-2025,Subway,Subway Fires,94
+01-01-2025,Subway,Joint Track Safety Audits - Actual Count,28
+01-01-2025,Subway,Joint Track Safety Audits - Compliance Rate,0.979
+01-01-2025,Subway,Continuous Welded Rail Initiative (# Track Feet),0
+01-01-2025,Subway,Friction Pad Installation,1551
+01-02-2025,Bus,Bus Collision Per Million Miles,53.78
+01-02-2025,Bus,Bus Collision Injuries Per Million Miles,7.53
+01-02-2025,Bus,Bus Customer Accidents per million customers,1.3
+01-02-2025,Bus,Audible Pedestrian Turn Warning System,12
+01-02-2025,Bus,Vision Zero Employee Training,437
+01-02-2025,Subway,Subway Customer Accidents,2.8
+01-02-2025,Subway,Subway Fires,69
+01-02-2025,Subway,Joint Track Safety Audits - Actual Count,30
+01-02-2025,Subway,Joint Track Safety Audits - Compliance Rate,0.985
+01-02-2025,Subway,Continuous Welded Rail Initiative (# Track Feet),4635
+01-02-2025,Subway,Friction Pad Installation,1638
+01-03-2025,Bus,Bus Collision Per Million Miles,56.19
+01-03-2025,Bus,Bus Collision Injuries Per Million Miles,6.73
+01-03-2025,Bus,Bus Customer Accidents per million customers,2.13
+01-03-2025,Bus,Audible Pedestrian Turn Warning System,2
+01-03-2025,Bus,Vision Zero Employee Training,555
+01-03-2025,Subway,Subway Customer Accidents,2.33
+01-03-2025,Subway,Subway Fires,85
+01-03-2025,Subway,Joint Track Safety Audits - Actual Count,28
+01-03-2025,Subway,Joint Track Safety Audits - Compliance Rate,0.9636
+01-03-2025,Subway,Continuous Welded Rail Initiative (# Track Feet),13170
+01-03-2025,Subway,Friction Pad Installation,2701
+01-04-2025,Bus,Bus Collision Per Million Miles,53.97
+01-04-2025,Bus,Bus Collision Injuries Per Million Miles,9.59
+01-04-2025,Bus,Bus Customer Accidents per million customers,2.36
+01-04-2025,Bus,Audible Pedestrian Turn Warning System,1
+01-04-2025,Bus,Vision Zero Employee Training,537
+01-04-2025,Subway,Subway Customer Accidents,2.45
+01-04-2025,Subway,Subway Fires,71
+01-04-2025,Subway,Joint Track Safety Audits - Actual Count,34
+01-04-2025,Subway,Joint Track Safety Audits - Compliance Rate,0.9619
+01-04-2025,Subway,Continuous Welded Rail Initiative (# Track Feet),8920
+01-04-2025,Subway,Friction Pad Installation,1664
+01-05-2025,Bus,Bus Collision Per Million Miles,62.2
+01-05-2025,Bus,Bus Collision Injuries Per Million Miles,7.9
+01-05-2025,Bus,Bus Customer Accidents per million customers,2.22
+01-05-2025,Bus,Audible Pedestrian Turn Warning System,0
+01-05-2025,Bus,Vision Zero Employee Training,565
+01-05-2025,Subway,Subway Customer Accidents,2.27
+01-05-2025,Subway,Subway Fires,69
+01-05-2025,Subway,Joint Track Safety Audits - Actual Count,24
+01-05-2025,Subway,Joint Track Safety Audits - Compliance Rate,0.982
+01-05-2025,Subway,Continuous Welded Rail Initiative (# Track Feet),4244
+01-05-2025,Subway,Friction Pad Installation,2476
+01-06-2025,Bus,Bus Collision Per Million Miles,58.44
+01-06-2025,Bus,Bus Collision Injuries Per Million Miles,6.7
+01-06-2025,Bus,Audible Pedestrian Turn Warning System,2
+01-06-2025,Bus,Vision Zero Employee Training,497
+01-06-2025,Subway,Subway Fires,66
+01-06-2025,Subway,Joint Track Safety Audits - Actual Count,26
+01-06-2025,Subway,Joint Track Safety Audits - Compliance Rate,0.9733
+01-06-2025,Subway,Continuous Welded Rail Initiative (# Track Feet),4650
+01-06-2025,Subway,Friction Pad Installation,2808
